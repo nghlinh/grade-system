@@ -6,6 +6,7 @@ The system tracks the exercise points for a course. The course has six exercise 
 - Last name, which is a string that can have arbitrary length.
 
 ## How to use the system
+If some part of this guide is denoted as "...", please switch to the code view to see full content.
 The system works by command line in terminal in the form of <command> <argument-1> <argument-2> ... <new-line>. 
 The commands are:
 1. Add student command, which add a new student to the database. Initially the student has 0 points for all exercises.
